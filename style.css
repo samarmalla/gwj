@@ -27,7 +27,14 @@
 #mission{
     text-align: center;
     font-size: 50px;
-    border-radius: 5;
+    color:burlywood;
 
 }
+
+#statement{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-stretch: expanded;
+    text-indent: 20;
+}
+
 
