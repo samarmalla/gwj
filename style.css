@@ -1,8 +1,10 @@
 
 #title{
+    font-size: 100px;
     background-color: teal;
     text-align: center;
     color:blanchedalmond
+        
 }
 
 #imgSrc{
@@ -12,5 +14,20 @@
     widht: 800px;
 }
 .hLine{
-    text-align: right;
+    text-align: center;
+    font-style: italic;
+    font-family: cursive;
 }
+
+#faith{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#mission{
+    text-align: center;
+    font-size: 50px;
+    border-radius: 5;
+
+}
+
