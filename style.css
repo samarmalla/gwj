@@ -1,1 +1,16 @@
 
+#title{
+    background-color: teal;
+    text-align: center;
+    color:blanchedalmond
+}
+
+#imgSrc{
+    
+    image-rendering: pixelated;
+    height: 800px;
+    widht: 800px;
+}
+.hLine{
+    text-align: right;
+}
