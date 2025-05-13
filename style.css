@@ -31,7 +31,10 @@ body{
 #mission{
     text-align: center;
     font-size: 50px;
+    font-weight: 200px;
     color:burlywood;
+    font-style:oblique
+    
 
 }
 
