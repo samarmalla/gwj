@@ -16,6 +16,10 @@ body{
     image-rendering: pixelated;
     height: 800px;
     widht: 800px;
+    border: 10px;
+    border-color:bisque;
+    border-style:groove;
+   
 }
 .hLine{
     text-align: center;
